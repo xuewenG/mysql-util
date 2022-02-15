@@ -1,1 +1,1 @@
-export { initPool, queryOne } from './util/mysql'
+export * from './util/mysql'
