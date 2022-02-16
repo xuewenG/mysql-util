@@ -1,6 +1,6 @@
 {
   "name": "@ixuewen/mysql-util",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Util for mysql.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
